@@ -1,0 +1,27 @@
+.desaign{
+padding-left:20px ;
+position: relative;
+word-spacing: 30px;
+height: 30px;
+margin-top:  60px;
+
+}
+#calculator-container{
+    margin: auto;
+    justify-content: center;
+    display: flex; 
+    flex-direction: column;
+    border: 12px;
+    border: 2px solid brown;
+
+}
+body{
+    display: flex;
+    padding-top: 200px;
+}
+#heading{
+    color: firebrick; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    margin-left: 50px;
+               
+}
